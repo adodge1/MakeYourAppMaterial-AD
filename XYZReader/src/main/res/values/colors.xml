@@ -22,6 +22,7 @@
     <color name="theme_primary_dark">#3700B3</color>
     <color name="theme_accent">#FF4081</color>
     <color name="ltgray">#727272</color>
+    <color name="letterBlack">#000000</color>
 
 <!--The color displayed most frequently across your app’s screens and components. -->
     <color name="colorPrimary">#6200EE</color>
